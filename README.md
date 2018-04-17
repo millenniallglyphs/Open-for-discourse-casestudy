@@ -9,7 +9,7 @@ Spatial intervention in Theory and Practice.
 “this is in an effort to construct a smooth space of thought””
 -Deleuze and Guattari
 
-Intro
+<h2>Intro</h2>
 
 This paper seeks to investigates a series of ongoing spatial experiments I conducted with Devin Halladay in the Graphic Design department at the Maryland Institute College of Art (MICA). With limited tools we tried to open institutional space to discourse, to varying degrees of success. I examine the techniques we came to use and the resulting impact these acts produced. I will describe the successes and failures of the project and examine the impact, even if little that these acts have had upon the institution. After an assessment of the project, I will pivot to look ahead as I attempt to describe ways this project can be expanded both within and beyond the institution. In doing so, I will propose speculative additions and explore the theoretical frameworks that informs this project moving forward. Finally, I will codify a distillation of the critical technical and theoretical elements of the project into tool kit. 
 
