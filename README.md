@@ -19,7 +19,7 @@ That was it: just a pink box on a corkboard. Quickly we added push pins, paper a
 
 Though this evolved into a larger exploration of spatial intervention as a form of community engagement, I must stress the spontaneous nature of its inception. It is important to understand the organic evolution of this project, because at its heart, these experiments are  guided by necessity. They are reactions to a specific climate and are a product of an institutional condition. 
 
-Setting the stage
+<h2>Setting the stage</h2>
 
 Fundamentally, MICA is lacking in infrastructure of communication. There are few platforms for interdisciplinary connection and feedback within the school. Unlike most universities, MICA lacks a central meeting point such as a library that encourages and facilitates socialization and the dissemination of thought through conversation. Compounding this, the MICA community remains largely isolated both from other institutions of higher education in the area, and the neighborhoods surrounding the campus. 
 
@@ -39,7 +39,7 @@ In parallel, MICA has little cross campus interaction. Despite the fact the univ
 
 Finally, MICA remains largely isolated within the surrounding neighborhoods. Located within the narrow ribbon of economic privilege running through the center of the city, the school is an economic threat to the neighborhoods east and west and north. Despite the designation of Station North as an Arts and Culture District, MICA remains a monolithic institution, with connections to the Charles theater, but lacking connections in the community, especially along North Ave. [more] Fundamentally, MICA is lacking in public space for interactions between students and the community can happen. This is a premeditated architectural strategy based on fear, and economic displacement. With gates, facades, and IDs, almost every semi public area within MICA is closed to the surrounding community. This defensive design stops discourse before it can begin. Fortifying the campus due to muggins ignores the larger issues that underlie the violent acts: economic displacement, inequality and racism. To achieve a higher level of campus safety there must be opportunity for students to engage with the residents of the surrounding neighborhoods. 
 
-Open For Discourse
+<h2>Open For Discourse</h2>
 
 It is out of this environment that Open For Discourse emerged. As a student I had an implicit understanding of the communication issues MICA faced. And as someone with a critical practice my understanding of the school was shaped by this lens. Though not yet articulated, exploring the infrastructure of communication within the school was on my mind.  So when an opportunity to engage with these issues presented itself I seized it.
 
@@ -103,7 +103,7 @@ Observing the effect of the spatial interventions, I decided to explore response
 
 As it happened, the social engagement club was meeting across the hall. After talking with Maddy Wolfe, we decided to combine the night’s meetings. We began by workshopping a piece. This turned into a larger discussion about interdisciplinary connections within the school. The groups reflected upon the value of having a diversity of backgrounds weighing in on a project and how this could give valuable insights to artists and designers. From there we began exploring ways that interdisciplinary spaces could be formed across the MICA campus. This discussion helped to educate me on steps that were already being taken in this direction and reaffirmed that this was an issue supported by many people across the campus. Furthermore, the intersections of the helped to develop new connection, linking people across departments who don’t regularly interact. Finally, this meeting formed the basis of an ongoing dialogue between Wolfe and myself as we seek to combine our interests in creating deinstitutionalized bubbles for active student participation.
 
-Critical Lenses 
+<h2>Critical Lenses</h2> 
 
 Reflecting on both the successes and failures of the interventions in and around 307 I will explore a few critical lenses both to understand the results and to inspire further iteration as the project progresses. My goal is to provide a robust survey of the thought surrounding engagement, deinstitutionalization and community development. 
 
@@ -124,7 +124,7 @@ Utilizing Bilda’s Creative engagement model, to examine open for discourse, I�
 
 As such, it’s imperative that upon entry, one is able to enter into an adaptation phase. Though familiar with tools in use, ie stickers, markers, paper, in the context of deinstitutionalized space their functions are unclear. In order to adapt, the audience must become acquainted with the purpose of the interventions and why it is valuable for them to contribute. “story that drives the experience - along with the spatial and temporal facets,” write Bilba. Indeed, narrative is certainly lacking form the open for discourse experience. As designers, the audience has experience with externalizing ideas. The only thing preventing interaction is an inability to adapt to the deinstitutionalized space. Perhaps this could be corrected simply by posting information detailing the challenges facing MICA, the dangers of low levels of communication and the steps people can take to combat that through open for discourse. With modifications to make the intentions of the space more clear, people should be able to enter the Intended mode, breaking through the interaction threshold so as to contribute to the discourse. 
 
-Futures
+<h2>Futures</h2>
 
 Having reviewed the context and given some critical lenses to asses the project through I will propose additional iterations to open for discourse. These take multiple pathways. On the one hand I hope to iterate the project to make it more successful as a stand alone experiment. On the other hand, I hope to build connections and share the knowledge gained from this study in order to develop more robust infrastructure of communication across MICA and between institutions. These impulses work in tandem. As I refine the features of Open for Discourse I will be reaching out and building community connection and allies.   
 
